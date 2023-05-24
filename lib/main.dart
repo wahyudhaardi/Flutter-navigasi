@@ -32,11 +32,11 @@ class _BottomNavigationBarExampleState
       style: optionStyle,
     ),
     Text(
-      'Index 1: Business',
+      'Index 1: Store',
       style: optionStyle,
     ),
     Text(
-      'Index 2: School',
+      'Index 2: Check',
       style: optionStyle,
     ),
   ];
